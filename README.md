@@ -29,6 +29,6 @@ each g' costs 500$<br />
 each carat costs 1000$<br />
 
 
-I took the shapes, colors & clarity levels from these sites -> https://www.creditdonkey.com/diamond-prices.html ,https://antwerpdiamonds.direct/en/guides/diamond-price-calculator
+I took the shapes, colors & clarity levels from these sites -> https://www.creditdonkey.com/diamond-prices.html ,https://antwerpdiamonds.direct/en/guides/diamond-price-calculator <br />
 
-
+**ENJOY ! :)**
