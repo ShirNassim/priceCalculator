@@ -1,0 +1,48 @@
+.diamond-button {
+    background-color: white;
+    transition: 0.3s;
+}
+
+.diamond-button:hover {
+    background-color: #DBE7F7
+}
+
+.diamond-button-img {
+    width: 56px;
+    height: 56px;
+}
+
+.diamond-button-selected {
+    background-color: #2277D0
+}
+
+#diamond-item {
+    min-width: 126px;
+    min-height: 126px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 11%);
+    border-radius: 4px;
+    border: 0px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+#diamond-card:hover {
+    background-color: #DBE7F7
+}
+
+#diamond-card {
+    min-width: 126px;
+    min-height: 126px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 11%);
+    border-radius: 4px;
+    border: 0px;
+    margin: 4px;
+}
